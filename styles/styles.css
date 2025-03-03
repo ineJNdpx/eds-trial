@@ -260,4 +260,6 @@ main .section.highlight {
 main .section.blue {
     background-color: var(--light-blue);
     color: white;
+    margin: 0;
+    padding: 40px 0;
 }
